@@ -3,16 +3,18 @@ body {
 	padding-bottom: 10em;
 }
 
-.white {
-	color: #fff;
+.black {
+	color: #000;
 }
+
+
 
 .intro {
 	margin-top: 3em;
 	margin-bottom: 5em;
 }
 
-.intro h2, .intro h3 {
+.orange {
 	color: #E57E00;	
 }
 
