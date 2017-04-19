@@ -1,6 +1,5 @@
 body {
 	background:url('../img/background.png');
-	padding-bottom: 10em;
 }
 
 .black {
@@ -36,13 +35,11 @@ body {
 }
 
 .footer {
-    position: fixed;
-    bottom: 0;
     width: 100%;
     border-top:1px solid #E87E03;
-    background-color: #fff;
     color: #e87e03;
     padding-top: 15px;
+	margin-top:5em;
 }
 
 .block-workflow article {
