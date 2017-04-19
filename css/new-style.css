@@ -1,0 +1,68 @@
+body {
+	background:url('../img/background.png');
+	padding-bottom: 10em;
+}
+
+.white {
+	color: #fff;
+}
+
+.intro {
+	margin-top: 3em;
+	margin-bottom: 5em;
+}
+
+.intro h2, .intro h3 {
+	color: #E57E00;	
+}
+
+.container-portfolio {
+    width: 100%;
+    height: auto;
+    background:url('../img/background-posts.png') repeat-x center center;
+    background-size:contain;
+    padding-bottom: 60px;
+    transiton:all 0.3s linear;
+    -webkit-transition:all 0.3s linear;
+    -ms-transition:all 0.3s linear;
+    -o-transition:all 0.3s linear;
+    -moz-transition:all 0.3s linear;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top:1px solid #E87E03;
+    background-color: #fff;
+    color: #e87e03;
+    padding-top: 15px;
+}
+
+.block-workflow article {
+	margin-bottom: 2em;
+	margin-top: 2em;
+}
+
+.footer a {
+    color: #e87e03;
+    transiton:all 0.3s linear;
+    -webkit-transition:all 0.3s linear;
+    -ms-transition:all 0.3s linear;
+    -o-transition:all 0.3s linear;
+    -moz-transition:all 0.3s linear;
+}
+
+.footer a:hover {
+	color:#337ab7;
+}
+
+.footer address {
+	line-height: 30px;
+}
+
+@media (max-width: 768px) {
+	.footer .text-right, .footer .text-left {
+		text-align: center;
+	}
+}
