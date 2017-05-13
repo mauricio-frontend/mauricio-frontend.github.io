@@ -328,3 +328,7 @@ body {
 #linkedin-media:hover {
     background-position: -100px -35px;
 }
+
+.img-portfolio {
+    height: 70px;
+}
