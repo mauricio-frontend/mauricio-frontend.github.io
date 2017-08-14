@@ -12,7 +12,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    radial-gradient(#fff 25%, #e57e00)
+    background-image:radial-gradient(#fff 25%, #e57e00);
 }
 
 
