@@ -12,11 +12,6 @@ header {
     background-image: url('http://cdn.wonderfulengineering.com/wp-content/uploads/2014/01/Technology-Wallpaper-1.jpg');
 }
 
-header .row {
-    background: #fff;
-    border-radius: 20px
-}
-
 .intro {
 	margin-top: 3em;
 	margin-bottom: 5em;
